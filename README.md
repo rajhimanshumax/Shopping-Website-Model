@@ -2,9 +2,11 @@
 Clone this repository
 
 git clone https://github.com/gtsopour/nodejs-shopping-cart.git
+
 Install dependencies
 
 npm install
+
 Start NodeJS server at http://localhost:3000
 
 npm start
