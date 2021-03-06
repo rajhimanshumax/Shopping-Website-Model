@@ -1,7 +1,7 @@
 # Shopping-Website-Model
 Clone this repository
 
-git clone https://github.com/gtsopour/nodejs-shopping-cart.git
+git clone https://github.com/rajhimanshumax/Shopping-Website-Model.git
 
 Install dependencies
 
